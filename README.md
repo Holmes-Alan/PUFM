@@ -91,10 +91,12 @@ Our code is built upon the following repositories: [PU-GCN](https://github.com/g
 If you find our project is useful, please consider citing us:
 
 ```
-@InProceedings{ZSLiu_2025,
+@InProceedings{ZSLiu_2026,
     author    = {Zhi-Song Liu and Chenhang He and Lei Li},
     title     = {Efficient Point Clouds Upsampling via Flow Matching},
-    booktitle = {arXiv:2501.15286},
-    year      = {2025}
+    booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+    pages     = {7458–7466},
+    vol       = {40},
+    year      = {2026}
 }
 ```
